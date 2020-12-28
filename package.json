@@ -1,0 +1,23 @@
+{
+  "name": "chimmy",
+  "version": "1.0.0",
+  "description": "Discord bot using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nieloss/Chimmy.git"
+  },
+  "author": "Niels#1486",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nieloss/Chimmy/issues"
+  },
+  "homepage": "https://github.com/Nieloss/Chimmy#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  }
+}
